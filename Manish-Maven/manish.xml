@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="manish-suite">
+<test name="test-suite">
+
+<classes>
+
+  <class name="myPack.Manish"/>
+
+</classes>
+</test>
+</suite>
